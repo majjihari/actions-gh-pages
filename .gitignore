@@ -2,5 +2,5 @@
 coverage
 .npm
 .eslintcache
-.env
 node_modules
+config.bat
